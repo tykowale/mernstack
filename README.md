@@ -9,5 +9,5 @@ To start
 
 ```bash
 
-npm server
+npm run server
 ```
